@@ -41,6 +41,8 @@ public class DemoListViewFragment extends ListViewFragment {
         setAdapter();
         setListViewOnScrollListener();
         return view;
+
+
     }
 
     private void setAdapter() {
